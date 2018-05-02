@@ -1,5 +1,7 @@
 # Sudoku MVC Java Swing Implementation
 
+This implementation solve a Sudoku Board using Backtracking.
+
 ## Usage with console
 
 ```
